@@ -19,7 +19,8 @@ namespace Mylist
             }
             foreach(var i in directories)
             {
-                WriteLine(i);
+                DirectoryInfo d0 = new DirectoryInfo(i);
+                WriteLine(d0.Name);
             }
          }
         static void creat_folder(string path,string folderName)
@@ -38,7 +39,8 @@ namespace Mylist
         }
         static void Main(string[] args)
         {
-            creat_folder(args[0],args[1]);
+            list_print(args[0]);
+            ReadKey();
         }
     }
 }
