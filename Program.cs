@@ -11,16 +11,17 @@ namespace Mylist
          {
            
             DirectoryInfo d = new DirectoryInfo(path);
-            var directories = Directory.GetDirectories(path);
+
             FileInfo[] files = d.GetFiles();
+            DirectoryInfo[]directories = d.GetDirectories();
             foreach(FileInfo f in files)
             {
                 WriteLine(f.Name);
             }
-            foreach(var i in directories)
+            foreach(DirectoryInfo i in directories)
             {
-                DirectoryInfo d0 = new DirectoryInfo(i);
-                WriteLine(d0.Name);
+                
+                WriteLine(i.Name);
             }
          }
         static void creat_folder(string path,string folderName)
