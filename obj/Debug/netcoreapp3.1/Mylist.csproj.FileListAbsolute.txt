@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Mylist\bin\Debug\netcoreapp3.1\Mylist.exe
+C:\Users\Admin\Desktop\Mylist\bin\Debug\netcoreapp3.1\Mylist.deps.json
+C:\Users\Admin\Desktop\Mylist\bin\Debug\netcoreapp3.1\Mylist.runtimeconfig.json
+C:\Users\Admin\Desktop\Mylist\bin\Debug\netcoreapp3.1\Mylist.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Mylist\bin\Debug\netcoreapp3.1\Mylist.dll
+C:\Users\Admin\Desktop\Mylist\bin\Debug\netcoreapp3.1\Mylist.pdb
+C:\Users\Admin\Desktop\Mylist\obj\Debug\netcoreapp3.1\Mylist.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Mylist\obj\Debug\netcoreapp3.1\Mylist.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Mylist\obj\Debug\netcoreapp3.1\Mylist.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Mylist\obj\Debug\netcoreapp3.1\Mylist.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Mylist\obj\Debug\netcoreapp3.1\Mylist.dll
+C:\Users\Admin\Desktop\Mylist\obj\Debug\netcoreapp3.1\Mylist.pdb
+C:\Users\Admin\Desktop\Mylist\obj\Debug\netcoreapp3.1\Mylist.genruntimeconfig.cache
